@@ -1,0 +1,14 @@
+Programa calcular cuadrado de un numero
+
+Entorno
+	numero, resultado: numeros reales
+	
+	Algoritmo
+	Inicio
+		Visualizar "introduce un numero para ver su cuadrado: "
+		Leer numero
+		resultado <- numero * numero
+		
+		Visualizar " el cuadrado de " numero " es " resultado
+		
+	Finprograma	

@@ -1,0 +1,18 @@
+Programa suma y resta de dos numeros
+
+Entorno
+	numero1, numero2, resultadoSuma, resultadoResta: numeros reales
+	
+	Algoritmo
+	Inicio
+		Visualizar "introduce primer numero"
+		Leer  numero1
+		Visualizar "introduce segundo numero"
+		Leer numero2
+		resultadoSuma <- numero1 + numero2
+		resultadoResta <- numero1 - numero2
+		
+		Visualizar "la suma de los numeros es: ", resultadoSuma
+		Visualizar "la resta de los numeros es: ", resultadoResta
+		
+	Finprograma	
