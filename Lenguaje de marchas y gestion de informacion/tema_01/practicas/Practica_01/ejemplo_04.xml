@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE biblioteca>
+<biblioteca>
+ <ejemplar tipo_ejem="libro" titulo="XML práctico" editorial="Ediciones Eni">
+ <tipo> <libro isbn="978-2-7460-4958-1" edicion="1" paginas="347"/> </tipo>
+ <autor nombre="Sebastien Lecomte"/>
+ <autor nombre="Thierry Boulanger"/>
+ <autor nombre="Angel Belinchon Calleja" funcion="traductor"/>
+ <prestado lector="Pepito Grillo">
+ <fecha_pres dia="13" mes="mar" año="2009"/>
+ <fecha_devol dia="21" mes="jun" año="2009"/>
+ </prestado>
+ </ejemplar>
+ </biblioteca>

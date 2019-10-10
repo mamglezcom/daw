@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ciclos>
+
+  <ciclo>
+    <nombre>Administracion de Sistemas Informáticos en REd</nombre>  
+    <duracion>2000 horas</duracion>
+    <curso nivel="1">
+      <modulo clave="01">
+        <denominacion>Formacion y orientación laboral</denominacion>      
+        <horas_curri>90</horas_curri>
+        <horas_semanales>3</horas_semanales>
+      </modulo>
+      <modulo clave="02">
+        <denominacion>Fundamentos de hardware</denominacion>      
+        <horas_curri>100</horas_curri>
+        <horas_semanales>3</horas_semanales>
+      </modulo>          
+    </curso>
+    
+    <curso nivel="2">
+      <modulo clave="07">
+        <denominacion>Administracion de sistemas gestores de bases de datos</denominacion>      
+        <horas_curri>60</horas_curri>
+        <horas_semanales>3</horas_semanales>
+      </modulo>
+      <modulo clave="08">
+        <denominacion>Administracion de sistemas operativos</denominacion>
+        <horas_curri>120</horas_curri>
+        <horas_semanales>6</horas_semanales>
+      </modulo>
+    </curso>
+  </ciclo>
+
+</ciclos>

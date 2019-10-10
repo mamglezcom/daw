@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<facturas>
+  <factura numero="999">
+    <fecha>
+      <dia>12</dia>
+      <mes>01</mes>
+      <año>2005</año>
+    </fecha>
+    
+    <numPedido>731</numPedido>
+    <pago>Efectivo</pago>
+    
+    <datos>
+      
+      <empresa nombre="Equipos Digitales S.L.">
+        <direccion>Avenida Valladolid</direccion>
+        <poblacion CP="28015">Madrid</poblacion>
+        <cif>Q-9876543</cif>
+        <telefono>917776688</telefono>
+        <fax>917776699</fax>
+      </empresa>
+      
+      <cliente numero="876">
+        <nombre_c>Dario Bueno Gutierrez</nombre_c>
+        <direccion_c>Avenida Oporto Nº7 4ºD</direccion_c>
+        <poblacion_c CP="28043">Madrid</poblacion_c>
+        <provincia_c>Madrid</provincia_c>
+      </cliente>
+      
+    </datos>
+    
+    <articulos>
+      <articulo>
+        <referencia>MII93000F/8</referencia>
+        <descripcion>Micro Pentium IV 3000Mhz FB800</descripcion>
+        <cantidad>1</cantidad>
+        <precio moneda="euro">230</precio>
+        <impuesto tipo="IVA">16%</impuesto>
+        <importe moneda="euro">266,80</importe>
+      </articulo>
+      
+      <articulo>
+        <referencia>MB8QDIP4</referencia>
+        <descripcion>Placa Base QDI P4</descripcion>
+        <cantidad>1</cantidad>
+        <precio moneda="euro">180</precio>
+        <impuesto tipo="IVA">16%</impuesto>
+        <importe moneda="euro">208,80</importe>
+      </articulo>
+      
+      <articulo>
+        <referencia>MEDD512M32</referencia>
+        <descripcion>DIMM DDR 512MB 3200</descripcion>
+        <cantidad>2</cantidad>
+        <precio moneda="euro">40</precio>
+        <impuesto tipo="IVA">16%</impuesto>
+        <importe moneda="euro">92,80</importe>
+      </articulo>
+      
+      <articulo>
+        <referencia>HD250GSA7</referencia>
+        <descripcion>Disco Duro 250GB S-ATA 7200</descripcion>
+        <cantidad>4</cantidad>
+        <precio moneda="euro">120</precio>
+        <impuesto tipo="IVA">16%</impuesto>
+        <importe moneda="euro">556,80</importe>
+      </articulo>
+      
+    </articulos>
+    
+    <baseImponible moneda="euro">970</baseImponible>
+    <impuesto tipo="IVA" moneda="euro">155,20</impuesto>
+    <total>1125,20</total>
+    
+  </factura>
+  
+</facturas>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<contactos xmlsn:cli="http://clientes" xmlns:pro="http://proveedores">
+
+  <cliente>
+    <cli:nombre>Ana Ridao</cli:nombre>  
+    <cli:direccion>Calle Nova 2</cli:direccion>
+  </cliente>
+  <cliente>
+    <cli:nombre>Maria Rayo</cli:nombre>  
+    <cli:direccion>Calle Uria 12</cli:direccion>
+  </cliente>
+  
+  <proveedor>
+    <pro:nombre>Julian Garcia</pro:nombre>  
+    <pro:direccon>Calle Flores 7</pro:direccon>
+  </proveedor>
+  <proveedor>
+    <pro:nombre>Ramon Dario</pro:nombre>  
+    <pro:direccion>Calle Rosas 127</pro:direccion>
+  </proveedor>
+  
+</contactos>

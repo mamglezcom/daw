@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<agenda>
+<contactos>
+  <contacto>
+    <nombre>Miguel</nombre>
+    <apellido>Martin</apellido>
+    <telefono_trabajo>647509343</telefono_trabajo>
+    <telefono_casa>91647509343</telefono_casa>
+    <direccion>Soto del Barco</direccion>
+  </contacto>
+  <contacto>
+    <nombre>Noemi</nombre>
+    <apellido>Fernandez</apellido>
+    <telefono_trabajo>678553398</telefono_trabajo>
+    <telefono_casa>91647509343</telefono_casa>
+    <direccion>Soto del Barco</direccion>
+  </contacto>
+</contactos>  
+</agenda>

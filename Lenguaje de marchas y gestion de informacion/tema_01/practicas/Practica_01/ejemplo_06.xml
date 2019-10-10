@@ -1,0 +1,8 @@
+﻿<?xml version="1.0"?>
+<mensaje>
+ <destinatario>Tomas</destinatario>
+  <remitente>Juan</remitente>
+ <asunto/>
+ <contenido>No olvides ir a recogerme al aeropuerto mañana por la mañana!</contenido>
+</mensaje>
+<!-- se quitan espacios en blanco de etiquetas de cierre y agregar barra en etiqueta asunto -->

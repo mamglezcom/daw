@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cines>
+
+<cartelera>
+
+  <cine>
+    <nombre nombrealternativo="Yelmo Cines gijón 3D">Yelmo Cines Ocimax</nombre> 
+    <direccion tipo="calle">Maestro Amado Moran</direccion>
+    <municipio cp="33213">Gijón</municipio>
+    <telefono>985308027</telefono>
+    <precio tipo="normal">8.40 €</precio>
+    <precio tipo="3D">+2.40 €</precio>
+    <precio tipo="dia esp" dias="lunes y miercoles">6.80 €</precio>
+    
+    <peliculas dia=" Jueves 26 de septiembre 2013">
+      <pelicula horarios="18:45 21:20"></pelicula>
+      <ficha_tecnica>
+        <titulo original="White house down" año="2013">Asalto al poder</titulo>      
+        <duracion unidad_d="min">131</duracion>
+        <pais>EEUU</pais>
+        <calificacion edad="años">+16</calificacion>
+      </ficha_tecnica>
+    </peliculas>
+    
+  </cine>
+
+
+</cartelera>

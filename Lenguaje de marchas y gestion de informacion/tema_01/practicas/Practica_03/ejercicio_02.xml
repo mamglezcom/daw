@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<pedidos>
+    <pedido>
+      <identificador></identificador>    
+      <tipo_pintura></tipo_pintura>
+      <fecha>
+        <dia></dia>      
+        <mes></mes>
+        <anio></anio>
+        <formato></formato>
+      </fecha>
+      <pintura>
+        <marca></marca>
+        <cantidad></cantidad>
+        <color></color>
+      </pintura>
+      <proveedor>
+        <cif></cif>      
+        <nombre></nombre>
+        <domicilio>
+          <tipo_via></tipo_via>        
+          <numero></numero>
+          <codigo_postal></codigo_postal>
+        </domicilio>
+        <telefono></telefono>
+      </proveedor>
+    </pedido>
+</pedidos>

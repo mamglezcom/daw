@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<empresa xmlns:docentes="http://ASIR/docentes" xmlns:ciclos="http://ASIR/ciclos">
+    <datos>
+        <docentes:profesor>
+          <docentes:nombre>Juan</docentes:nombre>
+        </docentes:profesor>        
+        <docentes:profesor>
+          <docentes:nombre>Maria</docentes:nombre>
+      </docentes:profesor>
+      <ciclos:ciclo identificador="ASIR"></ciclos:ciclo>
+      <ciclos:alumnos>
+          <ciclos:nombre>Maria Maria</ciclos:nombre>      
+          <ciclos:nombre>Ana Ana</ciclos:nombre>
+          <ciclos:nombre>Pedro Ped</ciclos:nombre>
+      </ciclos:alumnos>
+      <ciclos:ciclo identificador="DAW"></ciclos:ciclo>
+      <ciclos:alumnos>
+          <ciclos:nombre>Maria Mar</ciclos:nombre>      
+          <ciclos:nombre>Jaime Yer</ciclos:nombre>
+          <ciclos:nombre>Alonso Al</ciclos:nombre>
+      </ciclos:alumnos>      
+    </datos>
+</empresa>
