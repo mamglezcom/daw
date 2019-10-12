@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ciclos>
+<ciclos xmlns:alum="http://www.instituto.com" xmlns:doc="http://www.educastur.es"> 
+  <ciclo identificador="ASIR"> 
+
+    <doc:nombre>Maria Alonso</doc:nombre>
+    <alum:nombre>Maria Maria</alum:nombre> 
+    <alum:nombre>Ana Ana</alum:nombre> 
+    <alum:nombre>Pedro Ped</alum:nombre>
+  </ciclo> 
+
+  <ciclo identificador="DAW"> 
+
+    <doc:nombre>Juan Viña</doc:nombre>
+    <alum:nombre>Maria Mar</alum:nombre> 
+    <alum:nombre>Jaime Yer</alum:nombre> 
+    <alum:nombre> Alonso Al</alum:nombre> 
+
+  </ciclo> 
+</ciclos>

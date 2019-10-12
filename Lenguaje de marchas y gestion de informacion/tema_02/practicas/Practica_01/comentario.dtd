@@ -1,0 +1,3 @@
+<!ELEMENT comentario (#PCDATA |enlace|persona)*>
+<!ELEMENT enlace (#PCDATA) >
+<!ELEMENT persona (#PCDATA)>

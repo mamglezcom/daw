@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ciclos>
+<ciclo>
+<nombre>Administración de Sistemas Informáticos en Red</nombre>
+<duracion>2000 horas</duracion>
+
+<curso nivel="1">
+<modulo clave="01">
+<denominacion>Formación y orientación labora</denominacion>
+<horas_curri>90</horas_curri>
+<horas_semanales>3</horas_semanales>
+</modulo>
+<modulo clave="02">
+<denominacion>Fundamentos de hardware</denominacion>
+<horas_curri>100</horas_curri>
+<horas_semanales>3</horas_semanales>
+</modulo>
+</curso>
+
+<curso nivel="2">
+<modulo clave="07">
+<denominacion>Administración de sistemas gestores de bases de datos</denominacion>
+<horas_curri>60</horas_curri>
+<horas_semanales>3</horas_semanales>
+</modulo>
+<modulo clave="08">
+<denominacion>Administración de sistemas operativos</denominacion>
+<horas_curri>120</horas_curri>
+<horas_semanales>6</horas_semanales>
+</modulo>
+</curso>
+
+</ciclo>
+
+<ciclo>
+<nombre>Técnico Superior en Desarrollo de Aplicaciones Multiplataforma</nombre>
+<duracion>2000 horas</duracion>
+
+<curso nivel="1">
+<modulo clave="01">
+<denominacion>Bases de datos </denominacion>
+<horas_curri>205</horas_curri>
+<horas_semanales>6</horas_semanales>
+</modulo>
+<modulo clave="02">
+<denominacion>Entornos de desarrollo </denominacion>
+<horas_curri>90</horas_curri>
+<horas_semanales>3</horas_semanales>
+</modulo>
+</curso>
+
+<curso nivel="2">
+<modulo clave="">
+<denominacion></denominacion>
+<horas_curri></horas_curri>
+<horas_semanales></horas_semanales>
+</modulo>
+<modulo clave="">
+<denominacion></denominacion>
+<horas_curri></horas_curri>
+<horas_semanales></horas_semanales>
+</modulo>
+</curso>
+</ciclo>
+
+<ciclo>
+<nombre></nombre>
+<duracion></duracion>
+
+<curso nivel="1">
+<modulo clave="">
+<denominacion></denominacion>
+<horas_curri></horas_curri>
+<horas_semanales></horas_semanales>
+</modulo>
+<modulo clave="">
+<denominacion></denominacion>
+<horas_curri></horas_curri>
+<horas_semanales></horas_semanales>
+</modulo>
+</curso>
+
+<curso nivel="2">
+<modulo clave="">
+<denominacion></denominacion>
+<horas_curri></horas_curri>
+<horas_semanales></horas_semanales>
+</modulo>
+<modulo clave="">
+<denominacion></denominacion>
+<horas_curri></horas_curri>
+<horas_semanales></horas_semanales>
+</modulo>
+</curso>
+</ciclo>
+
+
+</ciclos>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE agenda>
+<agenda> 
+	<persona> 
+		<nombreapell>Inés López Pérez</nombreapell> 
+
+		<direccion> 
+			<calle>El Percebe</calle> 
+			<numero>13</numero> 
+			<piso>3</piso> 
+			<letra>A</letra> 
+			<localidad>Santander</localidad> 
+			<cp>39300</cp> 
+		</direccion> 
+
+		<telefonos> 
+			<movil>970123123</movil> 
+			<casa>942333323</casa> 
+			<trabajo/> 
+		</telefonos> 
+	</persona> 
+	
+	<persona> 
+		<nombreapell>Maria López Pérez</nombreapell> 
+
+		<direccion> 
+			<calle>La rue</calle> 
+			<numero>23</numero> 
+			<piso>5</piso> 
+			<letra>A</letra> 
+			<localidad>Oviedo</localidad> 
+			<cp>34300</cp> 
+		</direccion> 
+
+		<telefonos> 
+			<movil>945123123</movil> 
+			<casa>942333113</casa> 
+			<trabajo> 942333113</trabajo>
+		</telefonos> 
+	</persona> 
+</agenda>

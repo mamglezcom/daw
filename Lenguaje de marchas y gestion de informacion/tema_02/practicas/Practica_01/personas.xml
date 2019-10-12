@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE lista_de_personas SYSTEM "file:///Z:/DesarrolloAplicacionesWeb/Lenguaje%20de%20marchas%20y%20gestion%20de%20informacion/tema_02/practicas/Practica_01/personas.dtd">
+<lista_de_personas>
+  <persona>
+    <nombre>miguel</nombre>
+    <fechanacimiento>6 abril 1973</fechanacimiento> 
+    <sexo>hombre</sexo>
+    <numeroseguridadsocial>123456789</numeroseguridadsocial>
+  </persona>
+</lista_de_personas>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE Pinturas>
+
+<Pinturas>
+  <Pedido>
+    <Fecha>
+      <Dia>2</Dia>
+      <Mes>Octubre</Mes>
+      <Año>2013</Año>
+    </Fecha>
+    <Hora Tipoh="24">15:00</Hora>
+    <Cantidad Unidad="Kg">500</Cantidad>
+    
+    <Proveedor>
+      <Nombre>Pepe</Nombre>
+      <Cif>J326598741</Cif>
+      <Domicilio>
+        <Via Tipov="Calle">Juan Perez</Via>
+        <Numero>1</Numero>
+        <CP>33403</CP>
+      </Domicilio>
+       <Telefono Tipof="Movil">666333222</Telefono>
+       <Telefono Tipof="Fijo">333333222</Telefono>
+    </Proveedor>
+  
+  <Pintura>
+        <Marca>Bruger</Marca>
+        <Color>Rojo</Color>
+  </Pintura>
+</Pedido>
+
+<Pedido>
+    <Fecha>
+      <Dia>3</Dia>
+      <Mes>Noviembre</Mes>
+      <Año>2013</Año>
+    </Fecha>
+     <Hora Tipoh="12">1:30 PM</Hora>
+    <Cantidad Unidad="L">1000</Cantidad>
+    
+    <Proveedor>
+      <Nombre>Colorines</Nombre>
+      <Cif>J326598985</Cif>
+      <Domicilio>
+        <Via Tipov="Avenida">Gijon</Via>
+        <Numero>8</Numero>
+        <CP>33478</CP>
+        </Domicilio>
+      
+      <Telefono Tipof="Fijo">985564578</Telefono>
+    </Proveedor>
+  
+  <Pintura>
+        <Marca>Titanlux</Marca>
+        <Color>Amarillo limon</Color>
+  </Pintura>
+</Pedido>
+
+</Pinturas>

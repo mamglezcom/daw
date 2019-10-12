@@ -1,0 +1,4 @@
+<!ELEMENT novela (autor,titulo,parrafo*)>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT parrafo (#PCDATA)>

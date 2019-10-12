@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ciclo>
+<ciclo>
+<nom_ciclo>DAW</nom_ciclo>
+<modulo> 
+<nombre>Lenguajes de Marcas y Sistemas de Gestión de Información</nombre>
+ <horas_semanales>4</horas_semanales>
+ <caracter>obligatorio</caracter>
+<fecha_inicio>15-Septiembre-2010</fecha_inicio> 
+<fecha_fin>30-Junio-2011</fecha_fin> 
+<alumnos>
+<alumno>
+ <nota/>
+ <faltas/>
+<identificacion>
+<nombre>Ana</nombre>
+<apellidos>Fernandez Gutiérrez</apellidos>
+<nif>16965696L</nif>
+</identificacion>
+<datos_personales>
+<telefono>789654321</telefono>
+<email>ana.fdezgtrrez@hotmail.com</email>
+<direccion>C/ El Percebe, 13 </direccion>
+<localidad>Santander</localidad>
+<cp>39302</cp>
+</datos_personales>
+</alumno> 
+<alumno>
+ <nota>apto</nota>
+ <faltas>0</faltas>
+<identificacion>
+<nombre>Pepito</nombre>
+<apellidos>Grillo</apellidos>
+<nif>9876543H</nif>
+</identificacion>
+<datos_personales>
+<telefono>789654321</telefono>
+<email>ana.fdezgtrrez@hotmail.com</email>
+<direccion>Avd El Pez, 5 </direccion>
+<localidad>Suances</localidad>
+<cp>39401</cp>
+</datos_personales>
+</alumno> 
+</alumnos>
+</modulo>
+</ciclo>

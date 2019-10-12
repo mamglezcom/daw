@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE vehiculos>
+<vehiculos>
+
+		<coche tipo="monovolumen" anio="2003">
+			<marca>Seat</marca>
+			<modelo>León</modelo>
+			<potencia medida="cv">140</potencia>
+			<matricula>4552EVZ</matricula>
+			<puertas>5</puertas>
+			<colorinterior>crema</colorinterior>
+			<colorexterior>negro</colorexterior>
+			<cambio>automatico</cambio>
+			<precio>9500</precio>
+		</coche>
+	
+
+		<moto anio="2002">
+			<marca>Honda</marca>
+			<modelo>CBR</modelo>
+			<potencia medida="cv">60</potencia>
+			<matricula>2569DRT</matricula>
+			<colorexterior>Rojo</colorexterior>
+			<precio>3500</precio>
+		</moto>
+	
+		<coche tipo="familiar" anio="2009">
+			<marca>Peugeot</marca>
+			<modelo>307SW</modelo>
+			<potencia medida="cv">110</potencia>
+			<matricula>1234GRT</matricula>
+			<puertas>5</puertas>
+			<colorexterior>negro</colorexterior>
+			<cambio>automatico</cambio>
+			<precio>12600</precio>
+		</coche>
+	
+</vehiculos>

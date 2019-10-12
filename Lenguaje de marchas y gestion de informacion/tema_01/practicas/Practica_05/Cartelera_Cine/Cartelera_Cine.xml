@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cartelera>
+<cartelera>
+  <cine>
+      <nombre nombre_alternativo="Yelmo Cines Gijon 3D">Yelmo Cines OciMax</nombre>
+      <direccion >Maestro Amado Moran</direccion>
+      <municipio cp="33213">Gijon</municipio>
+      <telefono>985308027</telefono>
+      <precio tipo="normal">8.40 €</precio>
+      <precio tipo="3D">+2.50 €</precio>
+      <precio tipo="dia esp" dias="Lunes y Miercoles">6.80€</precio>
+    <peliculas dia=" Jueves 26 de septiembre 2013">
+        <pelicula horarios="18:45  21:20">
+        <ficha_tecnica>
+        <titulo original="White house down" año="2013">Asalto al poder</titulo>
+        <duracion unidad_d="min">131</duracion>
+        <presupuesto unidad_p="$">150.000.000</presupuesto>
+        <pais>EEUU</pais>
+        <genero>Acción, Thriller</genero>
+        <estudio>Sony Pictures Releasing</estudio>
+        <calificacion edad="años">+16</calificacion>
+        <estreno pais="España">13 de Septiembre de 2013</estreno>
+        <estreno pais="EEUU"> 28 de Junio de 2013</estreno>
+        <estreno pais="Reino Unido">13 de Septiembre de 2013</estreno>
+        </ficha_tecnica>
+        </pelicula>
+  
+        <pelicula horarios="17:30">
+         <ficha_tecnica>
+        <titulo original="The mortal instruments: City of bones" año="2013">Cazadores de Sombras: ciudad de hueso</titulo>
+        <duracion unidad_d="min">130</duracion>
+        <presupuesto unidad_p="$">60.000.000</presupuesto>
+        <pais>EEUU</pais>
+        <genero>Acción, Aventura, Drama</genero>
+        <estudios>Constantin Films, eOne Films</estudios>
+        <calificacion edad="años">+12</calificacion>
+        <estreno pais="España">30 de agosoto 2013</estreno>
+        <estreno pais="EEUU">23 de agosto 2013</estreno>
+        <estreon pais="Reino Unido">21 de agosto 2013</estreon>
+      </ficha_tecnica>
+    </pelicula>
+  <pelicula horarios="20:30">
+    <ficha_tecnica>
+        <titulo original="The place Beyond the Pines" año="2013">Cruce de caminos</titulo>
+        <duracion unidad_d="min">340</duracion>
+        <presupuesto unidad_p="$">15.000.000</presupuesto>
+        <pais>EEUU</pais>
+        <genero>Drama, Crimen</genero>
+        <estudio>Sidney Kimmel Entertainment, TriPictures</estudio>
+        <calificacion edad="años">+16</calificacion>
+        <estreno pais="España"> 6 de Septiembre de 2013</estreno>
+        <estreno pais="EEUU"> 29 Marzo 2013</estreno>
+        <estreno pais="Reino Unido">12 Abril 2013</estreno>
+  </ficha_tecnica>
+  </pelicula>
+</peliculas>
+</cine>
+
+  <cine>
+  <nombre>Yelmo Cines Los Prados</nombre>
+  <direccion>Fernandez Ladreda</direccion>
+  <municipio cp="33010">Oviedo</municipio>
+  <telefono>985119920</telefono>
+  <precio tipo="normal">8.40€</precio>
+  <precio tipo="3D">+2.50€</precio>
+  <precio tipo="dia esp" dias="Lunes y Miercoles">6.80€</precio>
+  
+  <peliculas dia="26 de septiembre 2013">
+      <pelicula horario="19:40">
+      <ficha_tecnica>
+        <titulo original="Now you see me" año="2013">Ahora me ves</titulo>
+        <duracion unidad_d="min">115</duracion>
+        <pais>EEUU</pais>
+        <genero>Suspense</genero>
+        <estudio>Kurtzman/Orci, eOne Films</estudio>
+        <calificacion>TP</calificacion>
+        <estreno pais="España">19 de julio de 2013</estreno>
+        <estreno pais="EEUU">18 Enero 2013</estreno>
+        <estreno pais="Reino Unido">03 julio 2013</estreno>
+  </ficha_tecnica>
+  </pelicula>
+  
+      <pelicula horario="18:15 21:00">
+      <ficha_tecnica>
+        <titulo original="White house down" año="2013">Asalto al poder</titulo>
+        <duracion unidad_d="min">131</duracion>
+        <presupuesto unidad_p="$">150.000.000</presupuesto>
+        <pais>EEUU</pais>
+        <genero>Acción, Thriller</genero>
+        <estudio>Sony Pictures Releasing</estudio>
+        <calificacion edad="años">+16</calificacion>
+        <estreno pais="España">13 de Septiembre de 2013</estreno>
+        <estreno pais="EEUU">28 Junio 2013</estreno>
+        <estreno pais="Reino Unido">13 de Septiembre de 2013</estreno>
+        </ficha_tecnica>
+        </pelicula>
+  </peliculas>
+</cine>
+</cartelera>
+        

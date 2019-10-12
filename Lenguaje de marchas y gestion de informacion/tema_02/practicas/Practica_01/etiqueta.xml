@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE etiqueta SYSTEM "file:///Z:/DesarrolloAplicacionesWeb/Lenguaje%20de%20marchas%20y%20gestion%20de%20informacion/tema_02/practicas/Practica_01/etiqueta.dtd">
+<etiqueta>
+<nombre>Fulano Mengánez</nombre>
+<calle>c/ Mayor, 27</calle>
+<ciudad>Valderredible</ciudad>
+<pais>España</pais>
+<codigo>39343</codigo>
+</etiqueta>
